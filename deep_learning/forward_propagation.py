@@ -1,5 +1,7 @@
 import numpy as np
-from sigmoid import sigmoid
+
+from deep_learning.ch3.sigmoid import sigmoid
+
 
 def identity_function(a):
     return a
